@@ -218,7 +218,7 @@ function Upload() {
           {/* Botões do GitHub */}
           <div className="github-buttons">
             <a 
-              href="https://github.com/devsants/fastup-api" 
+              href="https://github.com/devcadim/fastup-api" 
               target="_blank" 
               rel="noopener noreferrer"
               className="github-button"
@@ -229,7 +229,7 @@ function Upload() {
               Veja a API
             </a>
             <a 
-              href="https://github.com/devsants/fastup-front" 
+              href="https://github.com/devcadim/fastup-front" 
               target="_blank" 
               rel="noopener noreferrer"
               className="github-button"
